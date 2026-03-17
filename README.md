@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Edgar Gutierrez (DevGutic) 👋</h1>
 <h3 align="center">Electronic Engineer | Robotics | AI | Embedded Systems</h3>
+<img width="1536" height="586" alt="mibanner" src="https://github.com/user-attachments/assets/33f8a547-5392-42c8-b45c-3294355638a1" />
 
 ---
 
