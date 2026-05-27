@@ -70,6 +70,38 @@
 
 ---
 
+# 🚀 Courses
+
+<p align="center">
+
+<a href="https://github.com/DevGutic/Python-Projects">
+<img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://github.com/DevGutic/Robotics-Lab">
+<img src="https://img.shields.io/badge/Robotics%20Lab-22314E?style=for-the-badge&logo=ros&logoColor=white">
+</a>
+
+<a href="https://github.com/DevGutic/Computer-Vision">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</a>
+
+<a href="https://github.com/DevGutic/Control-Systems">
+<img src="https://img.shields.io/badge/Control%20Systems-FF6F00?style=for-the-badge">
+</a>
+
+<a href="https://github.com/DevGutic/FPGA-Systems">
+<img src="https://img.shields.io/badge/FPGA%20Systems-6A0DAD?style=for-the-badge">
+</a>
+
+<a href="https://github.com/DevGutic/Embedded-AI">
+<img src="https://img.shields.io/badge/Embedded%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</a>
+
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
