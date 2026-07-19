@@ -70,6 +70,14 @@
 
 ---
 
+# 👋 Welcome to My Professional Portfolio
+
+## Technical Areas
+
+- 🖥️ [Hardware Design](https://github.com/devgutic/Hardware-Design)
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
