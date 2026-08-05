@@ -76,6 +76,8 @@
 
 - 🖥️ [Hardware Design](https://github.com/devgutic/Hardware-Design)
 
+- 🖥️ [Control](https://github.com/devgutic/Control)
+
 ---
 
 ## 📫 Connect with Me
